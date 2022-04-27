@@ -1,0 +1,7 @@
+[
+{
+  "directory": "C:/Users/oscar/source/repos/TesteAllegro5/chapter01_new/build",
+  "command": "C:\\msys64\\clang64\\bin\\clang++.exe -IC:/Users/oscar/source/repos/TesteAllegro5/chapter01_new/allegro/include -g -o CMakeFiles\\chapter01.dir\\game-BasicMem.cpp.obj -c C:\\Users\\oscar\\source\\repos\\TesteAllegro5\\chapter01_new\\game-BasicMem.cpp",
+  "file": "C:\\Users\\oscar\\source\\repos\\TesteAllegro5\\chapter01_new\\game-BasicMem.cpp"
+}
+]
